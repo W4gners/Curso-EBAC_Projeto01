@@ -13,6 +13,7 @@ body > header {
 header .container {
     display: flex;
     justify-content: space-between;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 header li{
@@ -24,7 +25,7 @@ header li{
 
 header li a {
     color: #FFF;
-    text-decoration: none;  
+    text-decoration: none;
 }
 
 header li a:hover {
