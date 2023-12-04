@@ -94,11 +94,11 @@ section h2 {
 }
 
 #sports {
-    background-color: rgba(33, 155, 230, 0.1);
+    background-color: rgba(100, 155, 30, 0.2);
 }
 
 #sports .articles article a {
-    background-color: rgba(33, 155, 230);
+    background-color: rgba(100, 155, 30);
 }
 
 #economy {
@@ -107,4 +107,20 @@ section h2 {
 
 #economy .articles article a {
     background-color: rgba(200,50,100);
+}
+
+#tech {
+    background-color: rgba(33, 155, 230, 0.1);
+}
+
+#tech .articles article a {
+    background-color: rgba(33, 155, 230);
+}
+
+#cars {
+    background-color: rgba(255,150,0, 0.2);
+}
+
+#cars .articles article a {
+    background-color: rgba(255,150,0);
 }
